@@ -1,4 +1,4 @@
-def inputNumberOfStudents(): # input the number of students in the class
+def inputNumberOfStudents(): # Input the number of students in the class
     return int(input("Enter the number of students in the class: "))
 
 def inputStudentInformation(): # input student information: ID, name, and date of birth
